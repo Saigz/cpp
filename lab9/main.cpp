@@ -6,6 +6,7 @@
 #include <thread>
 #include <queue>
 #include <ctime>
+#include <ostream>
 
 #define N 4
 #define J 1

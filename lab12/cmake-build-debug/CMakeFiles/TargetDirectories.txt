@@ -1,0 +1,3 @@
+Y:/Programmes/c++/4semestr/cpp/lab12/cmake-build-debug/CMakeFiles/lab12.dir
+Y:/Programmes/c++/4semestr/cpp/lab12/cmake-build-debug/CMakeFiles/edit_cache.dir
+Y:/Programmes/c++/4semestr/cpp/lab12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
